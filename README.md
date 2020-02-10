@@ -1,5 +1,6 @@
 # MB-Reinforcement-Learning
 This is a toolbox for a Model-based Reinforcement learning technique.
+
 Some features included:
 - Database management and analysis
 - A library of basis functions to be used in Data-Fitting stage
