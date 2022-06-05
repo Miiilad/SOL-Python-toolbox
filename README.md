@@ -1,4 +1,4 @@
-# Model-based Reinforcement-Learning
+# Model-based Reinforcement Learning
 This is a toolbox for a Model-based Reinforcement learning technique.
 
 Some features included:
