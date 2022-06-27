@@ -15,7 +15,7 @@ Some features included:
 The toolbox also includes a benchmarking of different learning algorithms with various settings on multiple nonlinear systems. The resutls are generated for different nonlinear systems including:
 - Dynamic vehicle system
 - Quadrotor system 
-- The Chaotic Lorenz system
+- Chaotic Lorenz system
 - ...
 ![Screen Shot 2022-06-26 at 10 06 32 PM](https://user-images.githubusercontent.com/47310366/175847535-25034d0c-46e2-4660-a815-e0a06aa867ae.png)
 
