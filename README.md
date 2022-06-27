@@ -11,7 +11,7 @@ Some features included:
 
 ![Screen Shot 2022-06-26 at 10 01 52 PM](https://user-images.githubusercontent.com/47310366/175846488-35f42b62-6d23-4c62-9920-0951123ede53.png)
 
-#Model Learning
+# Model Learning
 The toolbox also includes a benchmarking of different learning algorithms with various settings on multiple nonlinear systems. The resutls are generated for different nonlinear systems including:
 - Dynamic vehicle system
 - Quadrotor system 
