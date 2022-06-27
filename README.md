@@ -3,10 +3,9 @@ A toolbox for a Model-based Reinforcement learning technique.
 
 Some features included:
 - Database management and analysis
-- A library of basis functions to be used in Data-Fitting stage
-- Graphical environment for some benchmark examples
+- A library of basis functions to be used in data-fitting stage
+- 3D Graphical simulation for some benchmark examples
 - Different model identification techniques
-- Logging data in various types and formats
 
 
 ![Screen Shot 2022-06-26 at 10 01 52 PM](https://user-images.githubusercontent.com/47310366/175846488-35f42b62-6d23-4c62-9920-0951123ede53.png)
